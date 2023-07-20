@@ -1,4 +1,4 @@
-# Digitalization-ECGs
+# ECGs Digitalization
 <img width="1031" alt="Schermata 2022-11-29 alle 16 21 17" src="https://user-images.githubusercontent.com/91341004/204569438-7b478e39-231c-42f5-8726-e1470295fef9.png">
 
 
