@@ -6,3 +6,4 @@ Here you can find some miscellaneous projects in Data Science. In particular:
 - In **Rome_car_accidents** a dataset about car accidents in Rome in 2021 is analyzed from a Bayesian point of view.
 - In **Steam_reviews_analysis** some data about the gaming platform Steam are explored.
 - In **Tesla_stock_analysis** Tesla stock price and revenues are analysed using web scraping, some python libraryes about finance, and different models in Deep Learning and Machine Learning.
+- In **Graph_signal_processing** involve signal processing exploartions over graph data structures using the python library PyGSP.
